@@ -1,0 +1,16 @@
+{
+    "cars": [
+        {
+            "id": "7fd68a5d",
+            "mark": "toyota",
+            "car_model": "camry",
+            "year_of_issue": "2021",
+            "engine_volume": 3.5,
+            "color": "black",
+            "type": "sedan",
+            "mileage": 200049585009,
+            "price": 21000.0
+        }
+    ],
+    "counter": 1
+}
